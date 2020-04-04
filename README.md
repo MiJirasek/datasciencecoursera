@@ -1,4 +1,4 @@
 # datasciencecoursera
 Test repo
 
-Thanks for review ;)
+Thanks for review! ;)
